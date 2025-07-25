@@ -70,7 +70,7 @@
 <a href="https://github.com/OscarFraile/RETAIL_FORECASTING" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </p>
-</p>Developed machine learning models using a three-year historical database to predict the next eight days of sales at the store×product level.</p>
+</p>Developed machine learning models using a three-year historical database to predict the next eight days of sales at the store product level.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
