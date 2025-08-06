@@ -15,7 +15,7 @@
                     <br>
                   </p>
                 </samp>     
-## 🛠️ Skills
+## 🛠️ Skills & Certifications
 
 #### Languages
 
@@ -38,6 +38,11 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
 ![XGBoost](https://img.shields.io/badge/XGBoost-105C0B?style=flat&logo=xgboost&logoColor=white)&nbsp;
 
+#### Certifications
+
+<a href="https://www.credly.com/badges/609bf07c-d8b9-4395-85a3-97fc53639aff/public_url" target="_blank">
+    <img src="https://images.credly.com/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" height="100" alt="AWS Certified Solutions Architect">
+    
 ## Analytics & Machine Learning Projects
 <table>
 <tr>
