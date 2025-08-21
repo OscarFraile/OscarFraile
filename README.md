@@ -9,7 +9,7 @@
 - 🔍 Junior Data Scientist | Passionate about uncovering hidden value in data 
 - ☎️ Contact me <samp>
                     <br/><div align="center">
-                    <a href="https://www.linkedin.com/in/oscar-fraile-bermejo-b8a45126/" target="blank"><img width="85px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
+                    <a href="https://www.linkedin.com/in/oscarfrailebermejo/" target="blank"><img width="85px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
                     <a href="mailto:frailebermejo@gmail.com" target="blank"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
                     <a href="https://wa.me/+34661346406" target="blank"><img width="120px" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat" /></a>
                     <br>
