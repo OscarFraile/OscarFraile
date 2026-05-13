@@ -49,9 +49,9 @@
 <td width="50%">
 <h3 align="center">Airbnb Analysis and Machine Learning prediction</h3>
 <div align="center">
-<a href="https://github.com/OscarFraile/AIRBNB_MADRID_2025/tree/main" target="_blank"><img src="https://imgur.com/4sjSaYL.png" width="400" alt="Lead Scoring Analysis"></a>
+<a href="https://github.com/OscarFraile/Proyecto-Master-DataScience-Evolve-OscarFraile/tree/main" target="_blank"><img src="https://imgur.com/4sjSaYL.png" width="400" alt="Lead Scoring Analysis"></a>
 <p>
-<a href="https://github.com/OscarFraile/AIRBNB_MADRID_2025/tree/main" target="_blank">
+<a href="https://github.com/OscarFraile/Proyecto-Master-DataScience-Evolve-OscarFraile/tree/main" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"><div align="center">
 </p>
 <p>Madrid real estate market analyzed using data cleaning, feature engineering, and XGBoost models. Investment recommendations shown on an interactive map segmented by neighborhoods and color-coded by potential. 
