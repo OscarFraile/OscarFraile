@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hey there, I’m <a href="https://www.linkedin.com/in/oscar-fraile-bermejo-b8a45126/">Oscar</a> 👋 </h1>
 </div>
-<img src="https://imgur.com/KBWXsED.png">
+<img src="https://imgur.com/PKWx4xM.png">
 
 ## About me
 
