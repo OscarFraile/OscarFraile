@@ -53,10 +53,10 @@
 <p>
 <a href="https://github.com/OscarFraile/Proyecto-Master-DataScience-Evolve-OscarFraile/tree/main" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"><div align="center">
-</p>
-<p>Madrid real estate market analyzed using data cleaning, feature engineering, and XGBoost models. Investment recommendations shown on an interactive map segmented by neighborhoods and color-coded by potential. 
-The pipeline includes data quality checks, variable selection, balancing, and GridSearch tuning. 
-Production-ready code runs seamlessly on new, unseen datasets, delivering accurate, interpretable predictions aligned with business goals.</p>
+</p> Mercado de alquiler turístico en Madrid analizado mediante limpieza de datos, ingeniería de variables y modelos XGBoost. Recomendaciones de inversión visualizadas en un mapa interactivo segmentado por barrios y codificado por potencial de rentabilidad.
+  
+El pipeline incluye control de calidad de datos, selección de variables, balanceo y ajuste de hiperparámetros con GridSearch.
+El código está preparado para producción y se ejecuta sobre nuevos datasets no vistos, generando predicciones precisas e interpretables alineadas con el negocio.</p>
 </div>                                                                        
 </td>
 
