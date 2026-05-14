@@ -1,3 +1,8 @@
+<div align="center">
+<h1 align="center">Hey there, I’m <a href="https://www.linkedin.com/in/oscar-fraile-bermejo-b8a45126/">Oscar</a> 👋 </h1>
+</div>
+<img src="https://imgur.com/PKWx4xM.png">
+
 ## About me
 
 - ⭐ Github beginner ⭐ 
@@ -56,11 +61,6 @@
 <a href="https://www.credly.com/badges/609bf07c-d8b9-4395-85a3-97fc53639aff/public_url" target="_blank">
     <img src="https://images.credly.com/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" height="100" alt="Google Cloud Certification">
 </a>
-
-<div align="center">
-<h1 align="center">Hey there, I’m <a href="https://www.linkedin.com/in/oscar-fraile-bermejo-b8a45126/">Oscar</a> 👋 </h1>
-</div>
-<img src="https://imgur.com/PKWx4xM.png">
     
 ## Analytics & Machine Learning Projects
 <table>
