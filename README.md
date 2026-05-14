@@ -69,10 +69,11 @@ El código está preparado para producción y se ejecuta sobre nuevos datasets n
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"><div align="center">
 </p>
 <p>
-Developed a credit risk analytics solution to predict borrower default using historical banking data. Built end‑to‑end from data cleaning, feature engineering and trained with classification and regression models. Evaluated with ROC‑AUC, precision, recall; ensured interpretability and business alignment. </p>
+Análisis del riesgo crediticio para predecir impagos basada en datos bancarios históricos. Construcción integral desde la limpieza de datos e ingeniería de variables hasta el entrenamiento con modelos de clasificación y regresión. 
+
+Métricas de error ROC-AUC, precisión y recall, garantizando la interpretabilidad y la alineación con los objetivos del negocio. </p>
 </div>                                                                        
 </td>
-
 <tr>
 <td width="50%">
 <h3 align="center">Lead Scoring Analysis</h3>
@@ -82,7 +83,7 @@ Developed a credit risk analytics solution to predict borrower default using his
 <a href="https://github.com/OscarFraile/LEAD_SCORING/tree/main" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"><div align="center">
 </p>
-<p>Analysis and recommendation of effective sales leads.</p>
+<p>Análisis y recomendaciones de lead comerciales efectivos.</p>
 </div>                                                                        
 </td>
 
@@ -95,7 +96,7 @@ Developed a credit risk analytics solution to predict borrower default using his
 <a href="https://github.com/OscarFraile/RETAIL_FORECASTING" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </p>
-</p>Developed machine learning models using a three-year historical database to predict the next eight days of sales at the store product level.</p>
+</p>Desarrollo de modelos de machine learning utilizando una base de datos histórica de tres años para predecir las ventas de los próximos ocho días a nivel de producto y tienda.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
