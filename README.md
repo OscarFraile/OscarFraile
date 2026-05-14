@@ -164,6 +164,16 @@
 </td>
 
 <td width="50%">
+<h3 align="center">¿Analizamos algo juntos?</h3>
+<div align="center">
+<a href="https://www.linkedin.com/in/oscarfrailebermejo/" target="_blank"><img src="https://imgur.com/Vl709iG.png" width="400" alt="Contacto LinkedIn"></a>
+<p>
+<a href="https://www.linkedin.com/in/oscarfrailebermejo/" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
+<p>Si tienes un problema de negocio que los datos pueden resolver, hablamos.</p>
+</div>
 </td>
 </tr>
 
