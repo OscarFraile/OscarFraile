@@ -83,7 +83,7 @@ Métricas de error ROC-AUC, precisión y recall, garantizando la interpretabilid
 <a href="https://github.com/OscarFraile/LEAD_SCORING/tree/main" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"><div align="center">
 </p>
-<p>Análisis y recomendaciones de lead comerciales efectivos.</p>
+<p>Análisis y recomendaciones de leads comerciales efectivos.</p>
 </div>                                                                        
 </td>
 
