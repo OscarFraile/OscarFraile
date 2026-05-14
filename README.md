@@ -1,12 +1,11 @@
 <div align="center">
-<h1 align="center">Hey there, I’m <a href="https://www.linkedin.com/in/oscar-fraile-bermejo-b8a45126/">Oscar</a> 👋 </h1>
+<h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/oscar-fraile-bermejo-b8a45126/">Oscar</a> 👋 </h1>
 </div>
 <img src="https://imgur.com/PKWx4xM.png">
 
 ## About me
 
-- ⭐ Github beginner ⭐ 
-- 🔍 Data Scientist | Passionate about uncovering hidden value in data 
+- 🔍 Data Scientist · ML · DL · GenAI · Transformando datos en decisiones
 - ☎️ Contact me <samp>
                     <br/><div align="center">
                     <a href="https://www.linkedin.com/in/oscarfrailebermejo/" target="blank"><img width="85px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
@@ -14,7 +13,8 @@
                     <a href="https://wa.me/+34661346406" target="blank"><img width="120px" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat" /></a>
                     <br>
                   </p>
-                </samp>     
+                </samp>
+
 ## 🛠️ Skills & Certifications
 
 #### Languages
@@ -61,62 +61,110 @@
 <a href="https://www.credly.com/badges/609bf07c-d8b9-4395-85a3-97fc53639aff/public_url" target="_blank">
     <img src="https://images.credly.com/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" height="100" alt="Google Cloud Certification">
 </a>
-    
-## Analytics & Machine Learning Projects
+
+## 📊 Projects
+
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Airbnb Analysis and Machine Learning prediction</h3>
+<h3 align="center">Airbnb Madrid — Predicción de Rentabilidad</h3>
 <div align="center">
-<a href="https://github.com/OscarFraile/Proyecto-Master-DataScience-Evolve-OscarFraile/tree/main" target="_blank"><img src="https://imgur.com/4sjSaYL.png" width="400" alt="Lead Scoring Analysis"></a>
+<a href="https://github.com/OscarFraile/Proyecto-Master-DataScience-Evolve-OscarFraile/tree/main" target="_blank"><img src="https://imgur.com/4sjSaYL.png" width="400" alt="Airbnb Madrid"></a>
 <p>
 <a href="https://github.com/OscarFraile/Proyecto-Master-DataScience-Evolve-OscarFraile/tree/main" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"><div align="center">
-</p> Mercado de alquiler turístico en Madrid analizado mediante limpieza de datos, ingeniería de variables y modelos XGBoost. Recomendaciones de inversión visualizadas en un mapa interactivo segmentado por barrios y codificado por potencial de rentabilidad.
-  
-El pipeline incluye control de calidad de datos, selección de variables, balanceo y ajuste de hiperparámetros con GridSearch.
-El código está preparado para producción y se ejecuta sobre nuevos datasets no vistos, generando predicciones precisas e interpretables alineadas con el negocio.</p>
-</div>                                                                        
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Modelo XGBoost sobre 30.000 alojamientos de Airbnb en Madrid para predecir rentabilidad alta o baja. Pipeline end-to-end con calidad de datos, balanceo y GridSearch. Resultados visualizados en mapa interactivo por barrios. AUC-ROC 0.997.</p>
+</div>
 </td>
 
 <td width="50%">
-<h3 align="center">Banking Risk Analysis</h3>
+<h3 align="center">Banking Risk — PD, EAD y LGD</h3>
 <div align="center">
-<a href="https://github.com/OscarFraile/BANKING_RISK/tree/main" target="_blank"><img src="https://imgur.com/7XWTzOR.png" width="400" alt="Banking Risk Analysis"></a>
+<a href="https://github.com/OscarFraile/Banking-risk/tree/main" target="_blank"><img src="https://imgur.com/7XWTzOR.png" width="400" alt="Banking Risk"></a>
 <p>
-<a href="https://github.com/OscarFraile/BANKING_RISK/tree/main" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"><div align="center">
+<a href="https://github.com/OscarFraile/Banking-risk/tree/main" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
 </p>
-<p>
-Análisis del riesgo crediticio para predecir impagos basada en datos bancarios históricos. Construcción integral desde la limpieza de datos e ingeniería de variables hasta el entrenamiento con modelos de clasificación y regresión. 
-
-Métricas de error ROC-AUC, precisión y recall, garantizando la interpretabilidad y la alineación con los objetivos del negocio. </p>
-</div>                                                                        
+<p>Sistema de scoring crediticio con tres modelos según el marco regulatorio Basilea II/III: Probabilidad de Default (clasificación), Exposición y Pérdida dado el Default (regresión). AUC-ROC PD 0.881.</p>
+</div>
 </td>
+</tr>
+
 <tr>
 <td width="50%">
-<h3 align="center">Lead Scoring Analysis</h3>
+<h3 align="center">Lead Scoring — Probabilidad de Compra</h3>
 <div align="center">
-<a href="https://github.com/OscarFraile/LEAD_SCORING/tree/main" target="_blank"><img src="https://imgur.com/uGItzHz.png" width="400" alt="Lead Scoring Analysis"></a>
+<a href="https://github.com/OscarFraile/Lead-Scoring/tree/main" target="_blank"><img src="https://imgur.com/uGItzHz.png" width="400" alt="Lead Scoring"></a>
 <p>
-<a href="https://github.com/OscarFraile/LEAD_SCORING/tree/main" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"><div align="center">
+<a href="https://github.com/OscarFraile/Lead-Scoring/tree/main" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
 </p>
-<p>Análisis y recomendaciones de leads comerciales efectivos.</p>
-</div>                                                                        
+<p>Segmentación KMeans (5 clusters) + clasificación XGBoost para predecir la probabilidad de compra de cada lead. Sistema listo para producción con código de reentrenamiento y ejecución. AUC-ROC 0.901.</p>
+</div>
 </td>
 
 <td width="50%">
-<h3 align="center">Retail Forecasting</h3>
-<div align="center">                                       
-<a href="https://github.com/OscarFraile/RETAIL_FORECASTING" target="_blank"><img src="https://imgur.com/TpR6ZpT.png" width="400" alt="Retail Forecasting"></a>
-<br>
+<h3 align="center">Retail Forecasting — Ventas por Producto</h3>
+<div align="center">
+<a href="https://github.com/OscarFraile/Retail-Forecasting/tree/main" target="_blank"><img src="https://imgur.com/TpR6ZpT.png" width="400" alt="Retail Forecasting"></a>
 <p>
-<a href="https://github.com/OscarFraile/RETAIL_FORECASTING" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/OscarFraile/Retail-Forecasting/tree/main" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
 </p>
-</p>Desarrollo de modelos de machine learning utilizando una base de datos histórica de tres años para predecir las ventas de los próximos ocho días a nivel de producto y tienda.</p>
-</div>                                                             
-</table>                                                                                 
+<p>20 modelos individuales (producto × tienda) sobre datos M5 Kaggle para predecir ventas diarias. Pipeline escalable con HistGradientBoosting y RandomizedSearchCV. Código de producción incluido.</p>
 </div>
-<br>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">Online Retail — Predicción de Recompra</h3>
+<div align="center">
+<a href="https://github.com/OscarFraile/online-retail-rebuying/tree/main" target="_blank"><img src="https://imgur.com/hTKxuIs.png" width="400" alt="Online Retail Rebuying"></a>
+<p>
+<a href="https://github.com/OscarFraile/online-retail-rebuying/tree/main" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Modelo sobre 1M+ transacciones para predecir qué clientes van a volver. RFM features + KMeans (4 segmentos) + HistGradientBoosting con Optuna. Explicabilidad con DALEX. AUC-ROC 0.864 · 2x lift.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">Wise Trustpilot — Análisis con BERT</h3>
+<div align="center">
+<a href="https://github.com/OscarFraile/wise-trustpilot-sentiment-bert/tree/main" target="_blank"><img src="https://imgur.com/C5JNzIj.png" width="400" alt="Wise Trustpilot BERT"></a>
+<p>
+<a href="https://github.com/OscarFraile/wise-trustpilot-sentiment-bert/tree/main" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Análisis de sentimiento y topic modeling sobre 5.800 reseñas Trustpilot con BERT. Wise.com comparado contra 69 competidores del sector Money & Insurance. Puesto 53/70 — 12 puntos bajo la media del sector.</p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">Agente RAG — Experto en Motores</h3>
+<div align="center">
+<a href="https://github.com/OscarFraile/agente-rag-motores/tree/main" target="_blank"><img src="https://imgur.com/ebqBNnr.png" width="400" alt="Agente RAG Motores"></a>
+<p>
+<a href="https://github.com/OscarFraile/agente-rag-motores/tree/main" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Agente conversacional RAG sobre 158 páginas de documentación técnica de motores de combustión. LangGraph + ChromaDB + Gemini con failover automático entre modelos y memoria conversacional. Interfaz Streamlit.</p>
+</div>
+</td>
+
+<td width="50%">
+</td>
+</tr>
+
+</table>
